@@ -1,2 +1,1 @@
 teamspeak:latest
-xhofe/alist:latest
